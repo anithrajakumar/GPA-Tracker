@@ -1,0 +1,31 @@
+semester,2,Test Sem! (Edit or Delete)
+course,26,MTH141,Linear Algebra,false,false
+assessment,Homework 1,Homework,1.25,1.25,false,false
+assessment,Homework 2,Homework,1.25,1.25,false,false
+assessment,Homework 3,Homework,1.25,1.25,false,false
+assessment,Homework 4,Homework,1.25,1.25,false,false
+assessment,Homework 5,Homework,1.25,1.25,false,false
+assessment,Homework 6,Homework,1.25,1.25,false,false
+assessment,Homework 7,Homework,1.25,1.25,false,false
+assessment,Homework 8,Homework,1.25,1.25,false,false
+assessment,Homework 9,Homework,1.25,1.25,false,false
+assessment,Homework 10,Homework,1.25,1.25,false,false
+assessment,Homework 11,Homework,1.25,1.25,false,false
+assessment,Homework 12,Homework,1.25,1.25,false,false
+assessment,Quiz 1,Quiz,1.5,1.5,false,false
+assessment,Quiz 2,Quiz,1.5,1.5,false,false
+assessment,Quiz 3,Quiz,1.5,1.5,false,false
+assessment,Quiz 4,Quiz,1.5,1.5,false,false
+assessment,Quiz 5,Quiz,1.5,1.5,false,false
+assessment,Quiz 6,Quiz,1.5,1.5,false,false
+assessment,Quiz 7,Quiz,1.5,1.5,false,false
+assessment,Quiz 8,Quiz,1.5,1.5,false,false
+assessment,Quiz 9,Quiz,1.5,1.5,false,false
+assessment,Quiz 10,Quiz,1.5,1.5,false,false
+assessment,Quiz 11,Quiz,1.5,1.5,false,false
+assessment,Quiz 12,Quiz,1.5,1.5,false,false
+assessment,Midterm 1,Midterm,16.0,36.0,false,false
+assessment,Final Exam,Final,26.17,42.0,false,false
+course,2,MTH140,,false,false
+assessment,Midterm,Midterm,12.0,25.0,false,false
+assessment,Final Exam,Final,37.0,40.0,false,false
